@@ -21,7 +21,7 @@ A classic sliding puzzle game where players must rearrange scrambled pieces to f
 ![image](https://github.com/user-attachments/assets/73e063f8-aaa5-404e-a893-2d0742a9cb2e)
 
 
- ## Repo Link :
+ ### Repo Link :
   https://github.com/Ayamohamed0101/Puzzle-Game
   
 
