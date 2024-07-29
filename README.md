@@ -24,6 +24,10 @@ A classic sliding puzzle game where players must rearrange scrambled pieces to f
  ### Repo Link :
   https://github.com/Ayamohamed0101/Puzzle-Game
   
+## 2. Snake Game
+
+
+## 3. ReX Game
 
 ## Installation
 
