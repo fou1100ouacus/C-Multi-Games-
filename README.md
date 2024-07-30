@@ -1,5 +1,5 @@
 # C# Multi-Games
-Welcome to the C# Multi-Games project! This repository includes multiple games implemented in C# using Windows Forms. The goal is to offer a diverse range of mini-games within a single application, showcasing different programming and design techniques.
+Welcome to the C# Multi-Games project! This repository includes multiple games implemented in C# using Windows Forms. showcasing different programming and design techniques.
 
 ## Features
 
@@ -25,11 +25,14 @@ A classic sliding puzzle game where players must rearrange scrambled pieces to f
   https://github.com/Ayamohamed0101/Puzzle-Game
   
 ## 2. Snake Game
+ ### Repo Link :
 
 
 ## 3. ReX Game
-## 4. Chicken Game
+ ### Repo Link :
+ https://github.com/Ayamohamed0101/ReX-Game
 
+## 4. Chicken Game
  ### Repo Link :
 https://github.com/Ayamohamed0101/Chicken-Game
 
