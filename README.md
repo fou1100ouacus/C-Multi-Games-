@@ -28,10 +28,15 @@ A classic sliding puzzle game where players must rearrange scrambled pieces to f
 
 
 ## 3. ReX Game
+## 4. Chicken Game
+
+ ### Repo Link :
+https://github.com/Ayamohamed0101/Chicken-Game
 
 ## Installation
 
 To get started with the C# Multi-Games project, follow these steps:
+
 
 1. **Clone the repository:**
     ```bash
