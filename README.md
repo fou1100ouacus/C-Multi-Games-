@@ -25,6 +25,8 @@ A classic sliding puzzle game where players must rearrange scrambled pieces to f
   https://github.com/Ayamohamed0101/Puzzle-Game
   
 ## 2. Snake Game
+![image](https://github.com/user-attachments/assets/30fd6b5a-90d6-4c50-8305-c9a0bfb3b8a0)
+
  ### Repo Link :
 https://github.com/Ayamohamed0101/SnakeGame
 
