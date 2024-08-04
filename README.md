@@ -38,6 +38,10 @@ https://github.com/Ayamohamed0101/SnakeGame
  ### Repo Link :
 https://github.com/Ayamohamed0101/Chicken-Game
 
+### 5. Math Game
+ ### Repo Link :
+https://github.com/Ayamohamed0101/MathGame
+
 ## Installation
 
 To get started with the C# Multi-Games project, follow these steps:
