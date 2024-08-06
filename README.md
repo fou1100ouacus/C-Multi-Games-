@@ -35,6 +35,8 @@ https://github.com/Ayamohamed0101/SnakeGame
  https://github.com/Ayamohamed0101/ReX-Game
 
 ## 4. Chicken Game
+![image](https://github.com/user-attachments/assets/5614c3b3-3c58-48d3-903f-2c4430fb3b47)
+
  ### Repo Link :
 https://github.com/Ayamohamed0101/Chicken-Game
 
