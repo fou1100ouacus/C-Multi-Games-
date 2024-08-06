@@ -25,6 +25,7 @@ A classic sliding puzzle game where players must rearrange scrambled pieces to f
   https://github.com/Ayamohamed0101/Puzzle-Game
   
 ## 2. Snake Game
+he Snake Game is a classic arcade game implemented as a desktop application 
 ![image](https://github.com/user-attachments/assets/30fd6b5a-90d6-4c50-8305-c9a0bfb3b8a0)
 
  ### Repo Link :
@@ -35,6 +36,7 @@ https://github.com/Ayamohamed0101/SnakeGame
  https://github.com/Ayamohamed0101/ReX-Game
 
 ## 4. Chicken Game
+This is an exciting and interactive game where you control a rocket ship to shoot down chickens while avoiding falling eggs
 ![image](https://github.com/user-attachments/assets/5614c3b3-3c58-48d3-903f-2c4430fb3b47)
  
  ### Repo Link :
