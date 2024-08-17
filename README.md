@@ -3,7 +3,6 @@
 ## showcasing different programming and design techniques.
 
 ## Features
-
 - Multiple games available in one repo
 - User-friendly and intuitive interface
 - Scoring and tracking features for each game
