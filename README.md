@@ -15,7 +15,6 @@
 ## 1. Puzzle Game
 
 A classic sliding puzzle game where players must rearrange scrambled pieces to form a complete image.
-
 - **Grid**: 3x3 with one empty slot
 - **Features**: Timer, move counter, and shuffle functionality
 
